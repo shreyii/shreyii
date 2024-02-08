@@ -5,7 +5,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I aired on TV for a kids talk show!
 - 🤝 Looking forward to collaborate. 
-- ⚠️ Updating Projects in Progress. 
+- ⚠️ Currently, updating my work experience and projects - Work in Progress. 
 
 <!---
 shreyii/shreyii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
