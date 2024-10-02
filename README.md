@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @shreyii or Shreya Rajasekar. 
 - 👀 I’m interested in Bioinformatics, Computational Biology and truly adding value by solving problems. 
-- 🌱 I’m currently finishing my last semester at Georgia Tech, pursuing master's in bioinformatics. 
+- 🌱 I graduated from Georgia Tech, master's in bioinformatics. 
 - 💞️ I’m looking to collaborate on Bioinformatics or Computational Biology projects.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I aired on TV for a kids talk show!
+- ⚡ Fun fact: I aired on TV as a kid on a talk show!
 - 🤝 Looking forward to collaborate. 
-- ⚠️ Currently, updating my work experience and projects - Work in Progress. 
+- ⚠️ Currently, updating my work experience and projects - WIP. 
 
 <!---
 shreyii/shreyii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
